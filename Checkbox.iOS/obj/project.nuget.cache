@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HYTnBPKBn2q0nlOcNM7urOKLlZRcuFQvQF94zrUjmgFdwypEobLgikMn0H/G7ncd3d7BkWXW6FW6EPp70mkviw==",
+  "success": true,
+  "projectFilePath": "/Users/chandlermac/Projects/Checkbox/Checkbox.iOS/Checkbox.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/chandlermac/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/chandlermac/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/chandlermac/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
